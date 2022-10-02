@@ -1,0 +1,37 @@
+[
+    {
+        "name": "siteNumber",
+        "type": "NUMBER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "trackId",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "timestamp",
+        "type": "NUMBER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "type",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "content",
+        "type": "NUMBER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "eventId",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "variables",
+        "type": "JSON",
+        "mode": "NULLABLE"
+    }
+]
