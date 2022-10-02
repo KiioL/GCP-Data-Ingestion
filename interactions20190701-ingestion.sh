@@ -2,10 +2,10 @@
 echo "
 bq mk \
   --table \
-  --expiration 3600 \
+  --expiration 36000 \
   --description "This is my table" \
   --label organization:development \
-  myotherproject:mydataset.mytable \
+  levi_dataset.dmp_data_20190701 \
   /GCP-Data-Ingestion/myschema.json
 
 bq load \

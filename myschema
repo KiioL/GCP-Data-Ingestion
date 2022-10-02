@@ -1,7 +1,7 @@
 [
     {
         "name": "siteNumber",
-        "type": "NUMBER",
+        "type": "INT",
         "mode": "NULLABLE"
     },
     {
@@ -11,7 +11,7 @@
     },
     {
         "name": "timestamp",
-        "type": "NUMBER",
+        "type": "INT",
         "mode": "NULLABLE"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
         "name": "content",
-        "type": "NUMBER",
+        "type": "INT",
         "mode": "NULLABLE"
     },
     {
